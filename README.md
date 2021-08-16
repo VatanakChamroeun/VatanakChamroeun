@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+//most language used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VatanakChamroeun&theme=tokyonight)
+
+//visitors count
 ![](https://visitor-badge.laobi.icu/badge?page_id=VatanakChamroeun.VatanakChamroeun)
