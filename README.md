@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VatanakChamroeun&layout=compact)](https://github.com/VatanakChamroeun/github-readme-stats) -->
 
 <!-- visitors count -->
-![](https://visitor-badge.laobi.icu/badge?page_id=VatanakChamroeun.VatanakChamroeun)
+<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=VatanakChamroeun.VatanakChamroeun) -->
