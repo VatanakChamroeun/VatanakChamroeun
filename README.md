@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!-- most language used -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VatanakChamroeun&layout=compact)](https://github.com/VatanakChamroeun/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatanakchamroeun&hide=html,php,blade)](https://github.com/vatanakchamroeun/custom_platform-specific)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatanakchamroeun)](https://github.com/vatanakchamroeun)
 
 <!-- visitors count -->
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=VatanakChamroeun.VatanakChamroeun) -->
